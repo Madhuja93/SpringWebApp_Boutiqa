@@ -1,0 +1,40 @@
+#updateUser{
+  background: linear-gradient(#d7eeeb, #fff);
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  background-size: cover;
+  position: absolute;
+  background-attachment: fixed;
+}
+.form-box{
+  width: 100px;
+  height: 280px;
+  position: relative;
+  margin: 5% auto;
+  background:#ffff;
+  padding: 80px;
+  overflow: hidden;
+}
+h3{
+	color:#408080;
+}
+.submit-btn {
+  width: 85%;
+  padding: 10px 30px;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  background: linear-gradient(to right, #9cd0cb, #604a1c);
+  border: 0;
+  outline: none;
+  border-radius: 30px;
+}
+a{
+	color: #019587;
+    font-size: 15px;
+   text-decoration: none;
+    
+   
+}
